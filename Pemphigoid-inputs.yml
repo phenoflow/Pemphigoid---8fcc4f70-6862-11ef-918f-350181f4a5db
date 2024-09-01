@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/pemphigoid---secondary.py
+inputModule3:
+  class: File
+  path: python/prebullous-pemphigoid---secondary.py
+inputModule4:
+  class: File
+  path: python/cicatricial-pemphigoid---secondary.py
+inputModule5:
+  class: File
+  path: python/other-pemphigoid---secondary.py
+inputModule6:
+  class: File
+  path: python/pemphigoid-unspecified---secondary.py
+inputModule7:
+  class: File
+  path: python/pemphigoid-mention---secondary.py
+inputModule8:
+  class: File
+  path: python/pemphigoid-benign---secondary.py
+inputModule9:
+  class: File
+  path: python/ocular-pemphigoid---secondary.py
+inputModule10:
+  class: File
+  path: python/pemphigoid-gingival---secondary.py
+inputModule11:
+  class: File
+  path: python/pemphigoid-localized---secondary.py
+inputModule12:
+  class: File
+  path: python/juvenile-pemphigoid---secondary.py
+inputModule13:
+  class: File
+  path: python/pemphigoid-vegetan---secondary.py
+inputModule14:
+  class: File
+  path: python/pemphigoid-spongiosis---secondary.py
+inputModule15:
+  class: File
+  path: python/pemphigoid-vulva---secondary.py
+inputModule16:
+  class: File
+  path: python/pemphigoid-nodularis---secondary.py
+inputModule17:
+  class: File
+  path: python/pemphigoid-childhood---secondary.py
+inputModule18:
+  class: File
+  path: python/pemphigoid-involvement---secondary.py
+inputModule19:
+  class: File
+  path: python/pemphigoid-brunstingperry---secondary.py
+inputModule20:
+  class: File
+  path: python/esophageal-pemphigoid---secondary.py
+inputModule21:
+  class: File
+  path: python/chronic-pemphigoid---secondary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
